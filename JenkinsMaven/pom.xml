@@ -120,7 +120,7 @@
   		<version>2.20.1</version>
   		<configuration>
           		<suiteXmlFiles>
-           			 <suiteXmlFile>JenkinsMaven/testng.xml</suiteXmlFile>
+           			 <suiteXmlFile>testng.xml</suiteXmlFile>
           		</suiteXmlFiles>
 		<testFailureIgnore>true</testFailureIgnore>
         	</configuration>
@@ -129,4 +129,5 @@
   </plugins>
   
   </build>
+  
 </project>
