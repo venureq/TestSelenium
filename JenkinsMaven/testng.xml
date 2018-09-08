@@ -6,4 +6,9 @@
       <class name="com.qa.testcases.LoginFreeCrm"/>
     </classes>
   </test> <!-- Test -->
+  
+  <listeners>
+		<listener class-name="com.qa.utils.GenerateExtentReport" />
+</listeners>
+
 </suite> <!-- Suite -->

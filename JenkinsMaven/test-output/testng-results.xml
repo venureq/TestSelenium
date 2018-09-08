@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32267" started-at="2018-08-30T05:05:03Z" finished-at="2018-08-30T05:05:36Z">
+  <suite name="Suite" duration-ms="30154" started-at="2018-09-08T05:00:37Z" finished-at="2018-09-08T05:01:07Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32267" started-at="2018-08-30T05:05:03Z" finished-at="2018-08-30T05:05:36Z">
+    <test name="Test" duration-ms="30154" started-at="2018-09-08T05:00:37Z" finished-at="2018-09-08T05:01:07Z">
       <class name="com.qa.testcases.LoginFreeCrm">
-        <test-method status="PASS" signature="loginAction()[pri:1, instance:com.qa.testcases.LoginFreeCrm@343f4d3d]" name="loginAction" duration-ms="26308" started-at="2018-08-30T10:35:03Z" finished-at="2018-08-30T10:35:30Z">
+        <test-method status="PASS" signature="loginAction()[pri:1, instance:com.qa.testcases.LoginFreeCrm@5442a311]" name="loginAction" duration-ms="24222" started-at="2018-09-08T10:30:37Z" finished-at="2018-09-08T10:31:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginAction -->
-        <test-method status="PASS" signature="logOutAction()[pri:2, instance:com.qa.testcases.LoginFreeCrm@343f4d3d]" name="logOutAction" duration-ms="5906" started-at="2018-08-30T10:35:30Z" finished-at="2018-08-30T10:35:36Z">
+        <test-method status="PASS" signature="logOutAction()[pri:2, instance:com.qa.testcases.LoginFreeCrm@5442a311]" name="logOutAction" duration-ms="5875" started-at="2018-09-08T10:31:02Z" finished-at="2018-09-08T10:31:07Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logOutAction -->
       </class> <!-- com.qa.testcases.LoginFreeCrm -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
