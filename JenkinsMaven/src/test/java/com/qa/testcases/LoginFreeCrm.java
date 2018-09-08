@@ -66,7 +66,7 @@ public class LoginFreeCrm
 		Thread.sleep(5000);
 		driver.findElement(By.xpath("//a[contains(.,'   Logout   ')]")).click();
 		driver.close();
-		// close the browser
+		// close the browser test
 		
 	}
 }
